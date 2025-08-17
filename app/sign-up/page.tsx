@@ -4,6 +4,7 @@ import { Card, CardTitle } from "@/components/ui/card";
 import AuthForm from "../components/AuthForm";
 
 
+
 function SignUpPage() {
   return (
     <div className="flex flex-1 flex-col items-center justify-center">
